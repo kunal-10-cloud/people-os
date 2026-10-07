@@ -18,6 +18,7 @@ Any static host works (Emergent, Netlify, GitHub Pages, S3).
 - `index.html` loads everything in order.
 - `core/` holds the data packs (`data.js`, `data-extra.js`), the runtime (`lib.js`), components (`ui.js`), charts, maps and the app shell.
 - `modules/` has one file per area (home, people, payroll, roster, leave, self-service and so on); each registers its routes.
+- `PRD.md` lists every feature, portal and demo flow as built.
 - `DESIGN.md` is the visual identity and UX rules; `CONTRIBUTING.md` is the module API and data model.
 
 ## Demo switches
