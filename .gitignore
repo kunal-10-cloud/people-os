@@ -1,0 +1,7 @@
+# first build, kept locally for reference only
+legacy/
+/app.js
+/data.js
+/styles.css
+/artifact.html
+.DS_Store
